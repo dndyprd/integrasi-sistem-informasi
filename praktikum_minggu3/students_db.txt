@@ -1,0 +1,6 @@
+2415354064,I Putu Dandy Pradnyana, Teknologi Informasi,ACTIVE
+2515834001, Ni Putu Ayu Esa Prameswari, Pariwisata, ACTIVE
+2415323006,I Ketut Daffa,Teknik Elektro,SUSPENDED
+2615354021,Ni Putu Febri Vallentine,Teknologi Informasi,ACTIVE
+2415754005,I Kadek Lanang Suputra,Administasi Bisnis,ACTIVE
+2415354003,Ketut Darmada,Teknik Elektro,SUSPENDED
